@@ -23,7 +23,7 @@ $ npm install utf8
 
 ## Stap Run
 ```sh
-- node index.php
+- node index.js
 ```
 
 ## Stap Use Program
